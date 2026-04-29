@@ -12,6 +12,8 @@ Schematic
 Top Solder Mask Layer
 <img width="1920" height="1080" alt="Screenshot 2026-04-20 120921" src="https://github.com/user-attachments/assets/175c7c63-cdf6-4c29-94b6-d510892dfac1" />
 
+<img width="713" height="402" alt="image" src="https://github.com/user-attachments/assets/6875ce5c-65d7-42ca-bf77-7bd8e7ca4291" />
+
 <img width="713" height="386" alt="image" src="https://github.com/user-attachments/assets/15ba2f4d-343f-44cc-99cd-d55ddacf68b2" />
 
 
