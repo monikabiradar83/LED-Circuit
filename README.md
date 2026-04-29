@@ -12,24 +12,28 @@ Schematic
 Top Solder Mask Layer
 <img width="1920" height="1080" alt="Screenshot 2026-04-20 120921" src="https://github.com/user-attachments/assets/175c7c63-cdf6-4c29-94b6-d510892dfac1" />
 
+<img width="713" height="386" alt="image" src="https://github.com/user-attachments/assets/15ba2f4d-343f-44cc-99cd-d55ddacf68b2" />
+
+
 Key Contributions:
 
--Designed the schematic and PCB layout using Altium Designer
+Designed the schematic and PCB layout using Altium Designer
 
--Routed power and signal traces on a single-layer PCB following standard design rules
+Routed power and signal traces on a single-layer PCB following standard design rules
 
--Fabricated the PCB and performed component placement and soldering
+Fabricated the PCB and performed component placement and soldering
 
--Tested the circuit by powering the board and verified proper LED operation
+Tested the circuit by powering the board and verified proper LED operation
 
--Debugged and validated connections to ensure reliable performance
+Debugged and validated connections to ensure reliable performance
+
 
 Skills Gained:
 
--PCB design and layout fundamentals
+PCB design and layout fundamentals
 
--Soldering and hardware assembly
+Soldering and hardware assembly
 
--Circuit testing and debugging
+Circuit testing and debugging
 
--Understanding of end-to-end hardware development workflow
+Understanding of end-to-end hardware development workflow
