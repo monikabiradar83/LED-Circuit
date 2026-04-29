@@ -14,15 +14,22 @@ Top Solder Mask Layer
 
 Key Contributions:
 
-Designed the schematic and PCB layout using Altium Designer
-Routed power and signal traces on a single-layer PCB following standard design rules
-Fabricated the PCB and performed component placement and soldering
-Tested the circuit by powering the board and verified proper LED operation
-Debugged and validated connections to ensure reliable performance
+-Designed the schematic and PCB layout using Altium Designer
+
+-Routed power and signal traces on a single-layer PCB following standard design rules
+
+-Fabricated the PCB and performed component placement and soldering
+
+-Tested the circuit by powering the board and verified proper LED operation
+
+-Debugged and validated connections to ensure reliable performance
 
 Skills Gained:
 
-PCB design and layout fundamentals
-Soldering and hardware assembly
-Circuit testing and debugging
-Understanding of end-to-end hardware development workflow
+-PCB design and layout fundamentals
+
+-Soldering and hardware assembly
+
+-Circuit testing and debugging
+
+-Understanding of end-to-end hardware development workflow
